@@ -2,6 +2,8 @@
 
 [![Kaggle Dataset](https://img.shields.io/static/v1?label=Kaggle%20Dataset&message=Open&color=blue&logo=visualstudiocode)](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test)
 
+[![Deck](https://img.shields.io/static/v1?label=Presentation%20Deck&message=Open&color=blue&logo=visualstudiocode)](https://drive.google.com/file/d/1MmYEVi4HW5A0c5MiB5uSpn-mXu16ue2A/view?usp=sharing)
+
 ## Background
 
 A fast-food franchise is considering the addition of a new menu item and is currently in the process of choosing among three potential marketing campaigns to promote it. To assess the impact of each promotion on sales, the new product is being introduced in randomly selected markets. Each market utilizes a distinct promotion strategy, and the weekly sales of the new item are monitored for the initial four weeks.
